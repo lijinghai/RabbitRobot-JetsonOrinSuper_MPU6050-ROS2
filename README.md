@@ -196,7 +196,20 @@ ros2 run rqt_plot rqt_plot
 
 ![ljh_mpu6050](./README.assets/ljh_mpu6050.gif)
 
+---
 
+## 📊 Star 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lijinghai/RabbitRobot-JetsonOrinSuper_MPU6050-ROS2&type=Date)](https://star-history.com/#lijinghai/RabbitRobot-JetsonOrinSuper_MPU6050-ROS2&Date)
+
+---
+<div align="center">
+
+## 算个文科生吧
+
+**Made with ❤️ for Robotics**
+
+</div>
 
 
 
